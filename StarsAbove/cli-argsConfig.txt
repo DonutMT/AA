@@ -1,0 +1,1 @@
+-tmlsavedirectory C:\Users\This PC\Downloads\steamapps\common\tModLoader\StarsAbove\SaveData -steamworkshopfolder none

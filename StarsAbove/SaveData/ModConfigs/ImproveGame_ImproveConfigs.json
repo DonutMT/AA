@@ -1,0 +1,19 @@
+{
+  "GrabDistance": 5,
+  "AutoReuseWeapon": false,
+  "ExtraToolSpeed": 0.125,
+  "ImproveTileSpeedAndTileRange": true,
+  "NoPlace_BUFFTile_Banner": false,
+  "NoConsume_Potion": false,
+  "TownNPCSpawnInNight": true,
+  "NoCD_FishermanQuest": true,
+  "LavalessLavaSlime": true,
+  "BestiaryQuickUnlock": false,
+  "StaffOfRegenerationAutomaticPlanting": true,
+  "NoBiomeSpread": false,
+  "TreeGrowFaster": false,
+  "MostTreeMin": 10,
+  "MostTreeMax": 20,
+  "ILoveBalance": true,
+  "OtherFunctions": true
+}
